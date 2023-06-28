@@ -15,6 +15,7 @@ You Only Need to Install the `Langchain` library.
 - Ask Questions: Use the chat interface provided by Langchain Agents to ask questions about the dataset. The agents will process the questions, analyze the data, and generate accurate responses based on the information contained in the dataset.
 
 ## Example
+![lang](https://github.com/saqib772/LangChain_CSV/assets/121972215/2dd42866-1bfa-4a8e-b52d-dcec16303506)
 
 See The Code in langchain_csv.ipynb
 
